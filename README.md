@@ -1,6 +1,10 @@
 # Generador de EXE
-# 1ro instalar en consola globalmente
-# pip install py2exe
 
-# 2do Crear exe
-# python setup.py py2exe
+1.Instalar en consola globalmente
+```
+pip install py2exe
+```
+2.Crear exe
+```
+python setup.py py2exe
+```
